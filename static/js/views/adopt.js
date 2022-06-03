@@ -100,7 +100,7 @@ export default class {
 
                     <div class="carta">
                         <div class="pet-img">
-                            <img src="./static/doggo.jpg">
+                            <img src="./static/Cat.jpg">
                         </div>
                         <div class="info">
                             <h6>Nombre</h6>
