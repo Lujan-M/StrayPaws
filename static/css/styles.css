@@ -124,11 +124,6 @@ body {
     border-bottom: 4px solid #222222a4;
 }
 
-/* .bg_img_container {
-    height: 100vh;
-    background-image: url("/static/doggo");
-} */
-
 .bg_img {
     max-height: 300px;
     width: 50%;
@@ -515,6 +510,7 @@ body {
     .contactForm, .contact-group {
         flex-grow: 1;
         width: 100%;
+        padding: 0%;
     }
     
     .contact-section > iframe {
