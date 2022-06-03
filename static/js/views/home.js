@@ -25,7 +25,7 @@ export default class {
             </div>
         </section>
 
-        <section >
+        <section>
             <h2 class="home-history">Nuestras Historias</h2>
             <div class="history_container">
                 <div class="history">

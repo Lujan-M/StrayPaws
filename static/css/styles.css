@@ -103,7 +103,7 @@ body {
 .bg-container > h1 {
     flex-grow: 1;
     text-align: center;
-    margin: 30px;
+    margin: 5%;
     color: #FDF8F8;
     font-family: 'Fredoka One', cursive;
     font-size: 100px;
@@ -533,6 +533,7 @@ body {
 }
 
 @media screen and (max-width: 600px) {
+    
     .carta {
         width: 45%;
     }
