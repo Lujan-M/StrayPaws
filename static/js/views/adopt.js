@@ -29,6 +29,59 @@ export default class {
 
                     <div class="carta">
                         <div class="pet-img">
+                            <img src="./static/Cat.jpg">
+                        </div>
+                        <div class="info">
+                            <h6>Nombre</h6>
+                            <p>Ciudad, Provincia</p>
+                            <p>Sexo:</p>
+                            <p>Edad:</p>
+                        </div>
+                        <div class="paw">
+                            <button type="button" class="bot-paw" data-bs-toggle="modal" data-bs-target="#contactModal">
+                                <span class="paw-text">Adoptar</span>
+                                <i class="fa-solid fa-paw"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="carta">
+                        <div class="pet-img">
+                            <img src="./static/doggo.jpg">
+                        </div>
+                        <div class="info">
+                            <h6>Nombre</h6>
+                            <p>Ciudad, Provincia</p>
+                            <p>Sexo:</p>
+                            <p>Edad:</p>
+                        </div>
+                        <div class="paw">
+                            <button type="button" class="bot-paw" data-bs-toggle="modal" data-bs-target="#contactModal">
+                                <span class="paw-text">Adoptar</span>
+                                <i class="fa-solid fa-paw"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="carta">
+                        <div class="pet-img">
+                            <img src="./static/Cat.jpg">
+                        </div>
+                        <div class="info">
+                            <h6>Nombre</h6>
+                            <p>Ciudad, Provincia</p>
+                            <p>Sexo:</p>
+                            <p>Edad:</p>
+                        </div>
+                        <div class="paw">
+                            <button type="button" class="bot-paw" data-bs-toggle="modal" data-bs-target="#contactModal">
+                                <span class="paw-text">Adoptar</span>
+                                <i class="fa-solid fa-paw"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="carta">
+                        <div class="pet-img">
                             <img src="./static/doggo.jpg">
                         </div>
                         <div class="info">
@@ -65,60 +118,7 @@ export default class {
 
                     <div class="carta">
                         <div class="pet-img">
-                            <img src="./static/doggo.jpg">
-                        </div>
-                        <div class="info">
-                            <h6>Nombre</h6>
-                            <p>Ciudad, Provincia</p>
-                            <p>Sexo:</p>
-                            <p>Edad:</p>
-                        </div>
-                        <div class="paw">
-                            <button type="button" class="bot-paw" data-bs-toggle="modal" data-bs-target="#contactModal">
-                                <span class="paw-text">Adoptar</span>
-                                <i class="fa-solid fa-paw"></i>
-                            </button>
-                        </div>
-                    </div>
-                    <div class="carta">
-                        <div class="pet-img">
-                            <img src="./static/doggo.jpg">
-                        </div>
-                        <div class="info">
-                            <h6>Nombre</h6>
-                            <p>Ciudad, Provincia</p>
-                            <p>Sexo:</p>
-                            <p>Edad:</p>
-                        </div>
-                        <div class="paw">
-                            <button type="button" class="bot-paw" data-bs-toggle="modal" data-bs-target="#contactModal">
-                                <span class="paw-text">Adoptar</span>
-                                <i class="fa-solid fa-paw"></i>
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="carta">
-                        <div class="pet-img">
-                            <img src="./static/doggo.jpg">
-                        </div>
-                        <div class="info">
-                            <h6>Nombre</h6>
-                            <p>Ciudad, Provincia</p>
-                            <p>Sexo:</p>
-                            <p>Edad:</p>
-                        </div>
-                        <div class="paw">
-                            <button type="button" class="bot-paw" data-bs-toggle="modal" data-bs-target="#contactModal">
-                                <span class="paw-text">Adoptar</span>
-                                <i class="fa-solid fa-paw"></i>
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="carta">
-                        <div class="pet-img">
-                            <img src="./static/doggo.jpg">
+                            <img src="./static/Cat.jpg">
                         </div>
                         <div class="info">
                             <h6>Nombre</h6>
