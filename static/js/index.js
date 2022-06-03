@@ -66,12 +66,12 @@ document.addEventListener("DOMContentLoaded", () => {
         if (window.scrollY > 41) {
             document.querySelector(".bar").classList.add("bar-bg")
             setTimeout(() => {
-                document.querySelector(".bar_logo").src = "./static/location2.png"
+                document.querySelector(".bar_logo").src = "StrayPaws/static/location2.png"
             }, '50')
         } else {
             document.querySelector(".bar").classList.remove("bar-bg")
             setTimeout(() => {
-                document.querySelector(".bar_logo").src = "./static/location.png"
+                document.querySelector(".bar_logo").src = "StrayPaws/static/location.png"
             }, '50')
         }
     })
